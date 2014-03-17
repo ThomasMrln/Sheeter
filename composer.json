@@ -1,0 +1,22 @@
+{
+    "name": "thomasmrln/paginator",
+    "description": "Generation of pagination for PHP files",
+    "keywords": ["php", "pagination"],
+    "homepage": "https://github.com/ThomasMrln/Paginator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Merlen",
+            "email": "thomas@merlen.fr",
+            "homepage": "http://www.thomasmerlen.fr/"
+        }
+    ],
+    "require": {
+        "thomasmrln/paginator": "*",
+        "php": ">=5.4.0"
+    },
+    "target-dir": "ThomasMrln/Paginator",
+    "autoload": {
+        "classmap": ["/"]
+    }
+}
