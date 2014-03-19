@@ -13,11 +13,11 @@
         }
     ],
     "require": {
-        "thomasmrln/rope": "dev-master",
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "thomasmrln/rope": "dev-master"
     },
     "target-dir": "thomasmrln/paginator",
     "autoload": {
-        "classmap": ["/"]
+        "psr-0": { "Paginator": "src/" }
     }
 }
