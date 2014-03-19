@@ -4,6 +4,7 @@
     "keywords": ["php", "pagination"],
     "homepage": "https://github.com/ThomasMrln/Paginator",
     "license": "MIT",
+    "version": "0.5",
     "authors": [
         {
             "name": "Thomas Merlen",
