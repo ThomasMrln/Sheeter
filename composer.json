@@ -4,7 +4,7 @@
     "keywords": ["php", "pagination", "paginator"],
     "homepage": "https://github.com/ThomasMrln/Paginator",
     "license": "MIT",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Thomas Merlen",
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "thomasmrln/rope": "ddev-master",
+        "thomasmrln/rope": "dev-master",
         "php": ">=5.4.0"
     },
     "target-dir": "thomasmrln/paginator",
