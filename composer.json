@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "thomasmrln/paginator": "dev-master",
-        "thomasmrln/rope": "dev-master",
+        "thomasmrln/paginator": "*",
+        "thomasmrln/rope": "*",
         "php": ">=5.4.0"
     },
     "target-dir": "ThomasMrln/Paginator",
