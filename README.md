@@ -1,4 +1,4 @@
-Sheeter
+Paginator
 =========
 
-PHP Class to simply pagination of your content. Fast and swag. Enjoy
+PHP Class for simply pagination of your content. Fast and swag. Enjoy

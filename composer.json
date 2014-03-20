@@ -1,8 +1,8 @@
 {
-    "name": "thomasmrln/paginator",
+    "name": "thomasmrln/sheeter",
     "description": "Generation of pagination for PHP files",
-    "keywords": ["php", "pagination", "paginator"],
-    "homepage": "https://github.com/ThomasMrln/Paginator",
+    "keywords": ["php", "pagination", "sheeter", "folio", "pager"],
+    "homepage": "https://github.com/ThomasMrln/Sheeter",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
@@ -16,8 +16,8 @@
         "php": ">=5.4.0",
         "thomasmrln/rope": "dev-master"
     },
-    "target-dir": "thomasmrln/paginator",
+    "target-dir": "thomasmrln/sheeter",
     "autoload": {
-        "psr-0": { "Paginator": "src/" }
+        "psr-0": { "Sheeter": "src/" }
     }
 }
