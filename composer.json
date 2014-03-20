@@ -16,7 +16,7 @@
         "php": ">=5.4.0",
         "thomasmrln/rope": ">=0.1"
     },
-    "target-dir": "/",
+    "target-dir": "ThomasMrln/Sheeter",
     "autoload": {
         "psr-0": { 
             "Sheeter": "src/"
